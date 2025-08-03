@@ -1,15 +1,10 @@
 <!-- Typing Animation -->
-<!-- Header with Centered Typing Animation and Subtitle -->
-<div align="center">
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=00F7FF&width=435&lines=HI+THERE%2C+I'M+VIVEK" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&width=435&lines=Hi+there%2C+I'm+Vivek+%F0%9F%91%8B" alt="Typing SVG"       style="margin-left: 20px;"  />
   </a>
-
-  <p align="center"><strong><sub> Data Analyst · Tech Enthusiast ·</sub></strong></p>
-
+  <br>
+  <b>Aspiring Data Analyst · Tech Enthusiast ·</b>
 </div>
-
 
 ---
 
