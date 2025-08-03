@@ -30,7 +30,7 @@
 
 | 💻 Project | 🔍 Description | 🛠 Tech Stack |
 |-----------|----------------|---------------|
-| [🩺 Voxia Health](https://github.com/your-username/voxia-health) | AI-powered medical voicebot for patient assistance | `Python`, `LLaMA`, `Gradio`, `TTS`, `OpenAI`, `Groq` |
+| [🩺 Voxia Health](https://github.com/Villmacc/VoiceNovaAI) | AI-powered medical voicebot for patient assistance | `Python`, `LLaMA`, `Gradio`, `TTS`, `OpenAI`, `Groq` |
 | [🎯 Lysian Club](https://github.com/your-username/lysian-club) | A sleek platform for influence & marketing strategy | `Next.js`, `TailwindCSS`, `Vercel`, `Content Design` |
 | [📊 SQL Case Studies](https://github.com/your-username/sql-projects) | Real-world business scenarios using SQL | `PostgreSQL`, `MySQL`, `Business Logic` |
 
