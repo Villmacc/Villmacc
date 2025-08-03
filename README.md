@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Aspiring Data Analyst · Tech Enthusiast · System Thinker
+  Aspiring Data Analyst · Tech Enthusiast ·
 </p>
 
 ---
@@ -20,8 +20,9 @@ I enjoy working at the intersection of data, design, and clarity. With a backgro
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sql,excel,tableau,powerbi,matplotlib,seaborn,sklearn,postgres,mysql,git,github,vscode,react,html,css,js,figma&perline=8" width="600px" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sql,excel,tableau,powerbi,matplotlib,seaborn,sklearn,postgres,mysql,git,github,vscode,react,html,css,js,figma&perline=8" width="300px" />
 </p>
+
 
 ---
 
@@ -29,5 +30,5 @@ I enjoy working at the intersection of data, design, and clarity. With a backgro
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vivekpaul888" target="_blank">
-
+  </a>
 </p>
