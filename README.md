@@ -1,63 +1,33 @@
-<h1 align="center">Hi there, I'm Vivek 👋</h1>
+<!-- Typing Animation -->
 <p align="center">
-  🚀 Aspiring Data Analyst | Tech Enthusiast | Creative Marketer
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&width=435&lines=Hi+there%2C+I'm+Vivek+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  Aspiring Data Analyst · Tech Enthusiast · System Thinker
 </p>
 
 ---
 
-### 💼 About Me
+### 🌙 About Me
 
-      Data Analyst | Growth-Driven Mindset  
-- 🔍 Obsessed with insights, patterns & solving real-world problems with **data**
-- 🧠 Learning: **Advanced SQL, Python, Power BI, React, Machine Learning**
-- 🛠️ Building: `AI Health Bot`, `Lysian Club`, `SQL Case Studies`
-- 📈 Exploring: AI for business, NLP, and marketing analytics
+I enjoy working at the intersection of data, design, and clarity. With a background in analytics and a toolkit that includes Python, SQL, Excel, Tableau, and Power BI, I like turning raw information into insights that make sense and feel intuitive. I approach problems with structure, think in systems, and believe that even the most technical work can have a sense of elegance. Quietly curious, always learning — I build with intention, so the work speaks for itself, even in silence.
 
 ---
 
-### 🚀 Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,excel,tableau,powerbi,react,html,css,js,figma,git,github,vscode" />
-</div>
-
----
-
-### 📈 GitHub Stats
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sql,excel,tableau,powerbi,matplotlib,seaborn,sklearn,postgres,mysql,git,github,vscode,react,html,css,js,figma&perline=8" width="600px" />
 </p>
 
 ---
 
-### ✨ Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Voxia Health](https://github.com/your-username/voxia-health) | 🩺 AI-powered multimodal medical voicebot | Python, LLaMA, ElevenLabs, Gradio |
-| [Lysian Club](https://github.com/your-username/lysian-club) | 🎯 Social media marketing & influence platform | Next.js, Tailwind, Vercel |
-| [SQL Portfolio](https://github.com/your-username/sql-projects) | 📊 Data analysis with complex SQL queries | PostgreSQL, MySQL |
-
----
-
-### 📝 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [5 SQL Tricks Every Analyst Should Know](https://your-blog.com/sql-tricks)
-- [How I Built an AI Health Voicebot](https://your-blog.com/voxia-health)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 📫 Connect With Me
+### 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vivekpaul888"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=githubpages" /></a>
+  <a href="https://www.linkedin.com/in/vivekpaul888" target="_blank">
+
 </p>
