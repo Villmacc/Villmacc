@@ -1,13 +1,14 @@
 <!-- Typing Animation -->
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&width=435&lines=Hi+there%2C+I'm+Vivek+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  Aspiring Data Analyst · Tech Enthusiast ·
-</p>
+<div align="center">
+  <b>Aspiring Data Analyst · Tech Enthusiast · </b>
+</div>
+
 
 ---
 
