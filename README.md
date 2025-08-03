@@ -1,11 +1,15 @@
 <!-- Typing Animation -->
+<!-- Header with Centered Typing Animation and Subtitle -->
 <div align="center">
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&width=435&lines=Hi+there%2C+I'm+Vivek+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=00F7FF&width=435&lines=HI+THERE%2C+I'M+VIVEK" alt="Typing SVG" />
   </a>
-  <br>
-  <b>Aspiring Data Analyst · Tech Enthusiast ·</b>
+
+  <p align="center"><strong><sub> Data Analyst · Tech Enthusiast ·</sub></strong></p>
+
 </div>
+
 
 ---
 
@@ -16,9 +20,7 @@ I enjoy working at the intersection of data, design, and clarity. With a backgro
 ---
 
 
-###  Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vivekpaul888" target="_blank">
-  </a>
-</p>
+Let’s Connect
+<p align="center"> <a href="https://www.linkedin.com/in/vivekpaul888" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Paul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+🌐 Website
+<p align="center"> <a href="https://lysian-club.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-lysian--club.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
