@@ -12,6 +12,7 @@
 
 I enjoy working at the intersection of data, design, and clarity. With a background in analytics and a toolkit that includes Python, SQL, Excel, Tableau, and Power BI, I like turning raw information into insights that make sense and feel intuitive. I approach problems with structure, think in systems, and believe that even the most technical work can have a sense of elegance. Quietly curious, always learning — I build with intention, so the work speaks for itself
 
+---
 
 ### * Skills & Tools *
 
@@ -31,6 +32,7 @@ I work with a versatile toolkit, always choosing the right tech for maximum impa
   <img src="https://img.shields.io/badge/Delta%20Lake-1E293B?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
+---
 
 ###  Connect through 
 <p align="center">
